@@ -1,2 +1,4 @@
-# JupiterOnline
-存放online运行的jupyter代码
+# jupyter_collectioin
+
+存放小项目的 jupyter 文件
+
